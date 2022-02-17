@@ -4,7 +4,7 @@
 
 - 🏛 Estudo Ciência da computação no IESB e estou no 3º semestre.
 - 🌱 Atualmente estou aprendendo C e Python.
-- 🏠 Atualmente resido em Brasília-DF 
+- 🏠 Resido em Brasília-DF 
 - 📫 Me contacte em: gustavoalvessm21@gmail.com
 ##
 
