@@ -2,8 +2,8 @@
 
 
 
-- 🏛 Estudo Ciência da computação no IESB e estou no 5º semestre.
-- 🌱 Atualmente estou aprendendo Java e Postgres.
+- 🏛 Estudo Ciência da computação no UDF e estou no 7º semestre.
+- 🌱 Atualmente estou aprendendo machine learning.
 - 🏠 Resido em Brasília-DF 
 - 📫 Me contacte em: gustavoalvessm21@gmail.com
 ##
