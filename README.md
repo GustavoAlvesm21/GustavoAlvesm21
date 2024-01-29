@@ -3,7 +3,7 @@
 
 
 - 🏛 Estudo Ciência da computação no UDF e estou no 7º semestre.
-- 🌱 Atualmente estou aprendendo machine learning.
+- 🌱 Atualmente estou aprendendo machine learning com pytorch.
 - 🏠 Resido em Brasília-DF 
 - 📫 Me contacte em: gustavoalvessm21@gmail.com
 ##
