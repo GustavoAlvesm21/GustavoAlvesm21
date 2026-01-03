@@ -2,7 +2,7 @@
 
 
 
-- 🏛 Estudo Ciência da computação no UDF e estou no 8º semestre.
+- 🏛 Graduado em Ciência da computação.
 - 🌱 Estagio com analise de dados e estou me aprofundando na área de ciência de dados.
 - 🏠 Resido em Brasília-DF 
 - 📫 Me contacte em: gustavoalvessm21@gmail.com
