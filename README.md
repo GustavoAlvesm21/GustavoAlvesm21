@@ -3,7 +3,7 @@
 
 
 - 🏛 Graduado em Ciência da computação.
-- 🌱 Experiência com analise de dados e estou me aprofundando na área de ciência de dados.
+- 🌱 Experiência com analise de dados e pós graduando ciência de dados pela XP educação.
 - 🏠 Resido em Brasília-DF 
 - 📫 Me contacte em: gustavoalvessm21@gmail.com
 ##
