@@ -6,13 +6,6 @@
 - 🏠 Resido em Brasília-DF 
 - 📫 Me contacte em: gustavoalvessm21@gmail.com
 ##
-
-
-<div align="center">
-  <a href="https://github.com/GustavoAlvesm21">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoAlvesm21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlvesm21&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Python" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
