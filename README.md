@@ -2,8 +2,7 @@
 
 
 
-- 🏛 Graduado em Ciência da computação.
-- 🌱 Experiência com analise de dados e pós graduando ciência de dados pela XP educação.
+- 🏛 Graduado em Ciência da computação e atuo dev fullstack na avanade.
 - 🏠 Resido em Brasília-DF 
 - 📫 Me contacte em: gustavoalvessm21@gmail.com
 ##
